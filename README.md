@@ -2,3 +2,5 @@
 # README-TEST
 # merge
 # cofilict01
+
+# conflict02
